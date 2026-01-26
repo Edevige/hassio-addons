@@ -14,6 +14,7 @@ ports_description:
   25565/tcp: Minecraft Server Port
   25575/tcp: RCON Port
 options:
+  data_dir: "/share/minecraft-vanilla"
   VERSION: LATEST
   SERVER_NAME: "HAMC Java Server"
   MOTD: "Greetings from Home Assistant"
