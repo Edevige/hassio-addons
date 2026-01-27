@@ -1,8 +1,8 @@
 {
   "build_from":
     {
-      "amd64": "itzg/minecraft-server:java8-multiarch",
-      "aarch64": "itzg/minecraft-servert:java8-multiarch",
-      "armv7": "itzg/minecraft-server:java8-multiarch",
+      "amd64": "itzg/minecraft-server:latest",
+      "aarch64": "itzg/minecraft-servert:latest",
+      "armv7": "itzg/minecraft-server:latest",
     },
 }
