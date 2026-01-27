@@ -74,3 +74,5 @@ map:
 environment:
   EULA: "TRUE"
   CF_API_KEY: '$2a$10$jcwamlZWsAk50WAZPS6.9OWBvNBR0gbY9aSNKziHC9fEX3uoOQRXO'
+  MODPACK_PLATFORM: AUTO_CURSEFORGE
+  CF_PAGE_URL: https://www.curseforge.com/minecraft/modpacks/divine-journey-2
