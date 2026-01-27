@@ -1,7 +1,7 @@
 ## next
 
-## 1.2.1.2
- - changed to java 8
+## 1.2.1.4
+ - changed to java 8-multiarch
 
 ## 1.2.1
  - test AUTO_CURSE_FORGE
