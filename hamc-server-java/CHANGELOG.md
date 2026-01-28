@@ -1,6 +1,6 @@
 ## next
-## 1.2.1.8
- - changed modpack
+## 1.2.1.9
+ - changed modpack to Homestead
 
 ## 1.2.1.4
  - changed to java 8-multiarch
