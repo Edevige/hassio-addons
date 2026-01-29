@@ -1,4 +1,8 @@
 ## next
+
+## 1.2.1.12
+ - Prominence Tuned 
+
 ## 1.2.1.9
  - changed modpack to Homestead
 

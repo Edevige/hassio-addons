@@ -29,7 +29,7 @@ options:
   MAX_WORLD_SIZE: 29999984
   ALLOW_NETHER: true
   SEED: ""
-  VIEW_DISTANCE: 10
+  VIEW_DISTANCE: 6
   ONLINE_MODE: true
   MEMORY: 5G
   ANNOUNCE_PLAYER_ACHIEVEMENTS: true
@@ -77,3 +77,4 @@ environment:
   MODRINTH_LOADER: fabric
   MODRINTH_PROJECTS: "emi"
   MODRINTH_DOWNLOAD_DEPENDENCIES: "required"
+  JVM_OPTS: "-XX:UseG1GC -XX:UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:DisableExplicitGC -XX:+AlwaysPreTouch"
