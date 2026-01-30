@@ -1,5 +1,5 @@
-#!/usr/bin/env bashio
+#!/usr/bin/env bash
 
-bashio::log.info "Starting..."
+echo "Starting Minecraft server..."
 
-/start
+exec /start
