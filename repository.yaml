@@ -1,4 +1,8 @@
 name: "Home Assistant Add-ons by Edevige"
-url: "https://github.com/Edevige/hassio-addons"
+url: "https://github.com/Edevige/hassio-addons2"
 
 maintainer: "Edevige"
+
+addons:
+  - hamc-server-java
+
